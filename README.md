@@ -86,32 +86,3 @@ Morning系統目前包括以下四大模块，系统管理模块、电子商城�
 5、前台用户账号，账号：morning  密码：xh2013212542    测试地址：http://localhost:8080/morning/index
    后台管理元账号，账号：admdin 密码：xh2013212542    测试地址：http://localhost:8080/morning/system
 
-```
-
-## 特别说明
-
-1.本人是自学的Java Web，如果系统中存在严重Bug，或者存在严重缺陷的问题，希望各位多提宝贵意见，小弟不胜感激。
-
-2.QQ：810170512  Email：<chenxingxing1994@foxmail.com>  欢迎各位大佬的指导。
-
-3.虚心接受指导，杜绝肆意谩骂。
-
-
-
-## 特别鸣谢
-
-1.[因酷 / inxedu](https://git.oschina.net/inxeduopen/inxedu)   因酷在线教育平台
-
-2.[ThinkGem 王震/JeeSite](https://git.oschina.net/thinkgem/jeesite)   JeeSite 企业信息化快速开发平台
-
-3.[青苗 / SpringWind](https://git.oschina.net/juapk/SpringWind)   spring-wind
-
-4.[轩少 / spring-shiro-training](https://git.oschina.net/wangzhixuan/spring-shiro-training)   spring-shiro-training
-
-## 演示界面
-
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1107/001913_2396bb4f_755773.png "前台登陆界面")
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1107/002154_c7600f3c_755773.png "前台首页")
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1107/002342_d58db7c0_755773.png "商品显示界面")
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1107/002717_a03a5a3c_755773.png "后台登录界面")
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1107/003030_9d1c798f_755773.png "后台主界面")
